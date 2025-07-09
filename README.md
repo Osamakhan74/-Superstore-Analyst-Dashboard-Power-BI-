@@ -1,8 +1,9 @@
 # -Superstore-Analyst-Dashboard-Power-BI-
 This Power BI project is an interactive dashboard analyzing sales performance of a retail superstore across different regions, categories, and time periods.
 
-## 🖼️ Dashboard Screenshot
-[Dashboard Preview](Screenshot 2025-06-26 174728.png)
+## 📸 Dashboard Preview
+
+![Superstore Power BI Dashboard](Screenshot%202025-06-26%20174728.png)
 
 ## 🔍 Key Insights
 - 📈 Total Sales, Profit, and Quantity Sold
